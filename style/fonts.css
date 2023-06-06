@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Lemon-Regular';
+    src: url(../fonts/Lemon-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Marcellus-Regular';
+    src: url(../fonts/Marcellus-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mulish-Bold';
+    src: url(../fonts/Mulish-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Mulish-ExtraBold';
+    src: url(../fonts/Mulish-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Mulish-Regular';
+    src: url(../fonts/Mulish-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mulish-SemiBold';
+    src: url(../fonts/Mulish-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
